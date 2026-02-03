@@ -1,0 +1,2 @@
+# AluraStoreLatam
+Practicando Python para Data Science: Challenge Alura Store
